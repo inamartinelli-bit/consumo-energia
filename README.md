@@ -1,4 +1,4 @@
-# 💡 🔌📻 🧑‍💻 🖨️ 🛀 Consumo-Energia -- Calculadora de Consumo Elétrico Inteligente 💰 🤑
+# 🧑‍💻 🖨️ 🎮 CONSUMO-ENERGIA 🛀🔌📻💡 -- Calculadora de Consumo Elétrico Inteligente 💰 🤑
 
 Este projeto em Python tem como objetivo simular a participação em um Programa de Iniciação Científica em Tecnologia onde a missão é: *criar uma Calculadora de Consumo Elétrico Inteligente que calcula o consumo mensal de aparelhos elétricos e eletrônicos de uso cotidiano em um domicílio*. *A calculadora ainda computa o gasto mensal de consumo do aparelho.*
 O cálculo do consumo mensal foi obtido atravé da fórmula: **consumoMensal = (potencia * horasDia * 30) / 1000**, onde a potência do aparelho em watts (W) é multiplicada pelo tempo de consumo ao mês, divididos por 1000 para consumo em kWh ao mês. Já o cálculo do gasto mensal do aparelho foi obtido através da fórmula: **gastomensal = (consumoMensal * 0.35)**, onde o gasto mensal em kWh foi estimado multiplicando-se pelo valor fixo de 0.35 centavos de Real (R$).
