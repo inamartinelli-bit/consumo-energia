@@ -1,15 +1,15 @@
 # Calculadora de Consumo Elétrico Inteligente
-# Autor: Inês Martinelli
-# Entrada
+# Autora: Inês Martinelli
+# Entrada das informações
 aparelho = input("Insira o nome do aparelho elétrico utilizado: ")
 potencia = int(input("Insira a potência do aparelho em watts (W): "))
 horasDia = float(input("Insira o tempo médio de uso diário em horas (h): "))
-# Processamento: 
+# Processamento (cálculo)
 # 1) Cálculo do consumo mensal (estimado) em kWh/mês;
 # 2) Cálculo do custo mensal estimado em kWh, dado pelo consumo mensal multiplicado pelo valor fixo de 0.65 centavos de Real (R$).
 consumoMensal = (potencia * horasDia * 30) / 1000
 gastomensal = (consumoMensal * 0.35)
-# Saída
+# Saída - Exibindo as informações
 print("====================================================================")
 print("Aparelho:",aparelho)
 print("Consumo estimado:",consumoMensal, "kWh/mês")
