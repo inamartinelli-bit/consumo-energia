@@ -8,6 +8,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>	
 
 ---
@@ -25,6 +27,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 - Solicitar ao usuário que insira o *aparelho* elétrico de interesse;
 - Solicitar a *potencia* e as *horasDia* de utilização do aparelho.
 - A Calculadora Inteligente de Consumo Elétrico mostra ao usuário o consumo (em kWh ao mês) e o custo do kWh em Reais (R$).
----
-### 📬 How to reach me 
+
 
