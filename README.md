@@ -24,9 +24,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
     - onde a potência do aparelho em watts (W) é multiplicada pelo tempo de consumo ao mês, divididos por 1000 para consumo em kWh ao mês.
 
 
-💲 **O cálculo do gasto mensal:**
+💲 **O cálculo do custo mensal:**
 - **custoMensal = (consumoMensal * 0.35)**
-    - onde o gasto mensal em kWh foi estimado multiplicando-se pelo valor fixo de 0.35 centavos de Real (R$).
+    - onde o custo mensal em kWh foi estimado multiplicando-se pelo valor fixo de 0.35 centavos de Real (R$).
 
 ---
 
