@@ -8,10 +8,10 @@ horasDia = float(input("Insira o tempo médio de uso diário em horas (h): "))
 # 1) Cálculo do consumo mensal (estimado) em kWh/mês;
 # 2) Cálculo do custo mensal estimado em kWh, dado pelo consumo mensal multiplicado pelo valor fixo de 0.65 centavos de Real (R$).
 consumoMensal = (potencia * horasDia * 30) / 1000
-gastomensal = (consumoMensal * 0.35)
+gastoMensal = (consumoMensal * 0.35)
 # Saída - Exibindo as informações
 print("====================================================================")
 print("Aparelho:",aparelho)
 print("Consumo estimado:",consumoMensal, "kWh/mês")
-print(f"Gasto mensal estimado: R$ {gastomensal:.2f} por kWh")
+print(f"Gasto mensal estimado: R$ {gastoMensal:.2f} por kWh")
 
