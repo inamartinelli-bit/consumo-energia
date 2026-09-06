@@ -25,7 +25,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 
 💲 **O cálculo do gasto mensal:**
-- **gastomensal = (consumoMensal * 0.35)**
+- **custoMensal = (consumoMensal * 0.35)**
     - onde o gasto mensal em kWh foi estimado multiplicando-se pelo valor fixo de 0.35 centavos de Real (R$).
 
 ---
